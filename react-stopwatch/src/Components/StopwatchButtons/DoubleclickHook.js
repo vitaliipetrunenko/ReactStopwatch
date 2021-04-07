@@ -21,7 +21,7 @@ export const DoubleclickHook = (doubleClick, click, timeout) => {
         if (event.detail % 2 === 0) {
             doubleClick(event);
         }
-    }, [click, doubleClick]);
+    }, [click, doubleClick,timeout]);
 };
 
 
