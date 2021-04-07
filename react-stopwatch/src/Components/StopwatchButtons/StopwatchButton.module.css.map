@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "StopwatchButton.module.scss"
+    ],
+    "names": [],
+    "file": "StopwatchButton.module.css"
+}
