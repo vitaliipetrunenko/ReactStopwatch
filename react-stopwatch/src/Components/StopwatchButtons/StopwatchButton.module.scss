@@ -10,7 +10,9 @@ button{
     line-height:20px;
     text-align:center;
     font-size:20px;
+    min-width: calc(210px / 3);
     &:focus{outline:none}
+    
     
 }
 .StopwatchButtons{
