@@ -3,6 +3,10 @@ import styl from './App.module.css';
 import StopwatchButtonsContainer from './Components/StopwatchButtons/StopwatchButtonsContainer.jsx';
 import StopwatchTimeContainer from './Components/StopwatchTime/StopwatchTimeContainer';
 
+
+const ourNewVariable = 'LOL';
+
+
 function App() {
   return (
     <BrowserRouter>
