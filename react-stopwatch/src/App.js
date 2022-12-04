@@ -4,7 +4,7 @@ import StopwatchButtonsContainer from './Components/StopwatchButtons/StopwatchBu
 import StopwatchTimeContainer from './Components/StopwatchTime/StopwatchTimeContainer';
 
 
-
+const OUR_NEW_VARIABLE = 'LOL';
 
 
 function App() {
